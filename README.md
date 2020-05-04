@@ -1,4 +1,4 @@
-# Aerial-Cactus-Identification-CNN_Classificatio
+# Aerial-Cactus-Identification-CNN_Classification
 
 A cnn implementation for determining whether an image contains a columnar cactus.
 
